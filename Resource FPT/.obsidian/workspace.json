@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "a6361c4c3e887d25",
+    "type": "split",
+    "children": [
+      {
+        "id": "24c8ff1a504f8f49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07382071ae634545",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8956ca0884dc58e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "b83d3331cd7ee06a",
+        "type": "tabs",
+        "dimension": 66.29889669007021,
+        "children": [
+          {
+            "id": "e5aaf43b9e5979b5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "79589c61cb7670db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23441472f79b7d77",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "880411823dbf449b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2b0d7e0d0fafaba4",
+        "type": "tabs",
+        "dimension": 33.70110330992979,
+        "children": [
+          {
+            "id": "a9b9b8a46713c3a6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 350.5
+  },
+  "right": {
+    "id": "75cc4791f189da1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a546e5f86e041231",
+        "type": "tabs",
+        "dimension": 58.36538461538462,
+        "children": [
+          {
+            "id": "03bf4a776072d428",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "FPT/FLI/Customer B2C/Beta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Beta"
+            }
+          },
+          {
+            "id": "1a270f8f0a071939",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c5e29edb0ae809e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f1dcddde8b319cdc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "FPT/FLI/Customer B2C/Beta.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Beta"
+            }
+          },
+          {
+            "id": "f54f28e6443d2f2c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "1fb6e24b35c72b0b",
+        "type": "tabs",
+        "dimension": 41.63461538461539,
+        "children": [
+          {
+            "id": "899accab6d05fe62",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-projects:Open projects": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "e5aaf43b9e5979b5",
+  "lastOpenFiles": [
+    "Untitled",
+    "FPT/FLI/Customer B2C/FLI business core.md",
+    "FPT/HiFPT/Prod.md",
+    "FPT/HiFPT/Staging.md",
+    "python django/Sharing/Shared request detail.md",
+    "python django/Sharing/get account sharer list.md",
+    "python django/Sharing/accept share request.md",
+    "python django/Sharing/Untitled 1.md",
+    "python django/Sharing/Reject share request.md",
+    "python django/Sharing/Create request share.md",
+    "Migrate Production.md",
+    "python django/Sharing/Sharing.md",
+    "python django/FCAM Auth.md",
+    "python django/Sharing",
+    "python django/FCAM API Access Permission (GIS).md",
+    "python django/permissions.md",
+    "code.md",
+    "python django/python django.md",
+    "python django/.md",
+    "Create app with django.md",
+    "Techschool.md",
+    "Excalidraw/Drawing 2025-05-16 16.23.03.excalidraw.md",
+    "Literature notes/JAEGER_TRACER .md",
+    "python django",
+    "FPT/FLI/Customer B2C/Camera Package.md",
+    "FPT/FLI/Customer B2C/Camera.md",
+    "Literature notes/format toDomainEntity pythondjango.md",
+    "Literature notes/Python Django.md",
+    "FPT/FLI/Cloud feature",
+    "FPT/FLI/Camera feature",
+    "Literature notes",
+    "FPT/SmartHome",
+    "Excalidraw",
+    "Tags",
+    "FPT/FLI/Customer B2C",
+    "FPT/FLI"
+  ]
+}
